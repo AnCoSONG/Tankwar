@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root><Point MapType="2" CanPass="false">0,0</Point><Tank Direction="UP">0,9</Tank><Point MapType="2" CanPass="false">1,1</Point><Point MapType="2" CanPass="false">2,2</Point><Point MapType="2" CanPass="false">3,3</Point><Point MapType="6" CanPass="true">4,4</Point><Point MapType="6" CanPass="true">5,5</Point><Point MapType="2" CanPass="false">6,6</Point><Point MapType="2" CanPass="false">7,7</Point><Point MapType="2" CanPass="false">8,8</Point><Enemy Direction="DOWN">9,0</Enemy><Point MapType="2" CanPass="false">9,9</Point></root>
